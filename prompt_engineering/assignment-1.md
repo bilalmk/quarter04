@@ -11,3 +11,6 @@
 
 ## 📂 3. Read Following Article
 - 🔗 [How LLMs Work: Top 10 Executive-Level Questions](https://sloanreview.mit.edu/article/how-llms-work/)
+
+# Assignment submission form
+- [https://forms.gle/aJiPAykB8YGdsd7R8](https://forms.gle/aJiPAykB8YGdsd7R8)
