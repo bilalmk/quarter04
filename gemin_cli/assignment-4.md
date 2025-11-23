@@ -106,7 +106,6 @@ You may add as many improvements as you want. Here are some ideas:
 
 * Auto-refresh the live scores every 30–60 seconds
 * AJAX/Fetch-API refresh without reloading page
-* A “View Details” page for individual matches
 * Manual refresh button
 
 ### 🔍 **Search**
