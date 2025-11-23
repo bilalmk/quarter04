@@ -90,8 +90,6 @@ Examples:
 * Add match detail loading
 * Add reusable components or improved architecture
 
-You must include the **exact prompts** used and the **code Gemini generated**.
-
 ---
 
 # ⭐ **Part 3 — Optional Enhancements (Choose Any)**
