@@ -1,18 +1,18 @@
 # 📘 Assignment Detail
 
 ## 🧠 1. Review Presentation on AI Driven & AI Native Development
-- [AI Driven & AI Native Development](https://docs.google.com/presentation/d/1UGvCUk1-O8m5i-aTWQNxzg8EXoKzPa8fgcwfNh8vRjQ/edit)
+- AI Driven & AI Native Development : [https://docs.google.com/presentation/d/1UGvCUk1-O8m5i-aTWQNxzg8EXoKzPa8fgcwfNh8vRjQ/edit](https://docs.google.com/presentation/d/1UGvCUk1-O8m5i-aTWQNxzg8EXoKzPa8fgcwfNh8vRjQ/edit)
 
 ## 📂 2. Read Following
-- [Learn the part 1](https://ai-native.panaversity.org/docs/Introducing-AI-Driven-Development)
-- [Learn the part 2](https://ai-native.panaversity.org/docs/AI-Tool-Landscape)
+- Learn the part 1 : [https://ai-native.panaversity.org/docs/Introducing-AI-Driven-Development](https://ai-native.panaversity.org/docs/Introducing-AI-Driven-Development)
+- Learn the part 2 : [https://ai-native.panaversity.org/docs/AI-Tool-Landscape](https://ai-native.panaversity.org/docs/AI-Tool-Landscape)
 
 ## 📂 3. Watch the following video
-- 🔗 [Agentic AI: The Revolution - English](https://www.youtube.com/watch?v=gvdrOrHHVYg&t=2s)
-- 🔗 [Agentic AI: The Revolution - Urdu](https://www.youtube.com/watch?v=rFFyItAFddY&t=1s)
+- 🔗 Agentic AI: The Revolution - English : [https://www.youtube.com/watch?v=gvdrOrHHVYg&t=2s](https://www.youtube.com/watch?v=gvdrOrHHVYg&t=2s)
+- 🔗 Agentic AI: The Revolution - Urdu : [https://www.youtube.com/watch?v=rFFyItAFddY&t=1s](https://www.youtube.com/watch?v=rFFyItAFddY&t=1s)
 
 ## 📂 4. Read Following Article
-- 🔗 [Review the Article](https://medium.com/google-cloud/gemini-cli-tutorial-series-77da7d494718)
+- 🔗 Review the Article : [https://medium.com/google-cloud/gemini-cli-tutorial-series-77da7d494718](https://medium.com/google-cloud/gemini-cli-tutorial-series-77da7d494718)
 
 # 📝 **5. Assignment: Build a Cricket Live-Scores Web App using Gemini CLI + Python Flask**
 
