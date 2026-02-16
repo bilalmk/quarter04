@@ -1,0 +1,40 @@
+16-02-2026 21:18:16 - app - INFO - application started
+16-02-2026 21:18:45 - app - INFO - GET - http://localhost:8000/course
+16-02-2026 21:19:01 - app - INFO - GET - http://localhost:8000/course/1
+16-02-2026 21:19:06 - app - INFO - GET - http://localhost:8000/hello
+16-02-2026 21:19:22 - app - INFO - application stopped
+16-02-2026 21:19:24 - app - INFO - application started
+16-02-2026 21:19:26 - app - INFO - GET - http://localhost:8000/hello
+16-02-2026 21:19:26 - app - ERROR - division by zero
+16-02-2026 21:21:02 - app - INFO - application stopped
+16-02-2026 21:21:04 - app - INFO - application started
+16-02-2026 21:22:51 - app - INFO - application stopped
+16-02-2026 21:31:43 - app - INFO - application stopped
+16-02-2026 21:32:22 - app - INFO - application stopped
+16-02-2026 21:36:13 - app - INFO - application stopped
+16-02-2026 21:37:33 - app - INFO - application stopped
+16-02-2026 21:37:54 - app - INFO - POST - http://localhost:8000/student/login
+16-02-2026 21:38:06 - app - INFO - application stopped
+16-02-2026 21:41:02 - app - INFO - application stopped
+16-02-2026 21:41:49 - app - INFO - application stopped
+16-02-2026 21:42:01 - app - INFO - application stopped
+16-02-2026 21:43:42 - app - INFO - application stopped
+16-02-2026 21:45:18 - app - INFO - application stopped
+16-02-2026 21:47:10 - app - INFO - application stopped
+16-02-2026 21:47:47 - app - INFO - application stopped
+16-02-2026 21:47:55 - app - INFO - GET - http://localhost:8000/docs
+16-02-2026 21:47:55 - app - INFO - GET - http://localhost:8000/openapi.json
+16-02-2026 21:47:56 - app - INFO - GET - http://localhost:8000/docs
+16-02-2026 21:48:16 - app - INFO - POST - http://localhost:8000/register
+16-02-2026 21:48:32 - app - INFO - application stopped
+16-02-2026 21:48:36 - app - INFO - POST - http://localhost:8000/register
+16-02-2026 21:51:49 - app - INFO - application stopped
+16-02-2026 21:52:19 - app - INFO - application stopped
+16-02-2026 21:52:24 - app - INFO - GET - http://localhost:8000/docs
+16-02-2026 21:52:24 - app - INFO - GET - http://localhost:8000/openapi.json
+16-02-2026 21:52:25 - app - INFO - GET - http://localhost:8000/docs
+16-02-2026 21:52:29 - app - INFO - POST - http://localhost:8000/register
+16-02-2026 21:52:48 - app - INFO - application stopped
+16-02-2026 21:52:52 - app - INFO - application stopped
+16-02-2026 21:53:08 - app - INFO - POST - http://localhost:8000/register
+16-02-2026 22:43:23 - app - INFO - application stopped
