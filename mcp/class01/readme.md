@@ -3,6 +3,7 @@
 ## 1. Read following before next class
 - [Read Agent Factory Chapter 37, Lessons 1–5 (Architecture, Transports, Tools, Resources, Prompts)](https://agentfactory.panaversity.org/docs/Building-Custom-Agents/mcp-fundamentals/mcp-architecture-overview)
 - [Introduction to Model Context Protocol - Complete Course](https://anthropic.skilljar.com/introduction-to-model-context-protocol)
+- [Introduction to Model Context Protocol - Complete Documentation](https://modelcontextprotocol.io/docs/getting-started/intro)
 - [HTTP Theory](https://github.com/panaversity/learn-agentic-ai/tree/main/03_ai_protocols/01_mcp/01_http_theory)
 - [REST (Representational State Transfer)](https://github.com/panaversity/learn-agentic-ai/tree/main/03_ai_protocols/01_mcp/02_rest)
 - [Introduction to JSON-RPC 2.0](https://github.com/panaversity/learn-agentic-ai/tree/main/03_ai_protocols/01_mcp/03_json_rpc)
